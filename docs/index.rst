@@ -9,4 +9,4 @@ Fotoooo
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://github.com/saudin17/Fotooooo/blob/master/docs/static/paesaggi.jpg" />
+    <img src="https://github.com/saudin17/Fotooooo/blob/master/docs/static/paesaggi.jpg width=600" />
