@@ -1,7 +1,7 @@
 Fotoooo
 
 
-/ |REPLACE1| /
+|REPLACE1|
 
 
 .. bottom of content
