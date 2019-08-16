@@ -1,12 +1,8 @@
 Fotoooo
 
 
-|REPLACE1|
+|IMG1|
 
-
-.. bottom of content
-
-
-.. |REPLACE1| raw:: html
-
-    <img src="https://github.com/saudin17/Fotooooo/blob/master/docs/static/paesaggi.jpg" />
+.. |IMG1| image:: static/quokka_1.jpeg
+   :height: 348 px
+   :width: 464 px
